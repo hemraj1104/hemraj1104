@@ -1,5 +1,5 @@
 ## About Me
-👋 Hey, I'm Hemraj — a Computer Engineering student focused on backend + full-stack development.  
+👋 Hey, I'm Hemraj — a Computer Engineer focused on backend + full-stack development.  
 I love solving real problems with code and turning concepts into scalable web apps.
 
 ## ⚙️ Tech Stack

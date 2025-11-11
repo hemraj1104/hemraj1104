@@ -1,6 +1,7 @@
 ## About Me
-👋 Hey, I'm Hemraj — a Computer Engineer focused on backend + full-stack development.  
-I love solving real problems with code and turning concepts into scalable web apps.
+👋 Hi, I'm Hemraj — a Computer Engineer passionate about backend and full-stack development.  
+I love solving real-world problems with modern tech and shipping projects that actually matter.
+
 
 ## ⚙️ Tech Stack
 

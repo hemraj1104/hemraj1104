@@ -48,7 +48,7 @@ I convert *confusion into clarity* and *decisions into adoption*.
 
 ### 🤝 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/hemrajpanchal04" target="_blank">
   <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="40"/>
 </a>
 <a href="https://instagram.com/hem_raj1104" target="_blank">

@@ -1,109 +1,159 @@
-## About Me
-👋 Hi, I'm Hemraj — a Computer Engineer passionate about backend and full-stack development.  
-I love solving real-world problems with modern tech and shipping projects that actually matter.
+# 👋 Hi, I'm Hemraj Panchal
 
+Computer Engineer and **Frontend-Focused Full Stack Developer** from Gujarat, India.
 
-## ⚙️ Tech Stack
+I build scalable web applications, real-time systems, and modern UI platforms using **Angular, React, Next.js, Node.js, and modern cloud tools**.
 
-### Programming Languages
+I enjoy solving real-world problems and shipping projects that actually matter.
+
+---
+
+# ⚙️ Tech Stack
+
+## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </p>
 
-### Data / Backend
+## 🧠 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,fastapi" />
+<img src="https://skillicons.dev/icons?i=angular,react,nextjs,html,css,tailwind" />
 </p>
 
-### Tools
+## ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Design / Creative
+## 🗄 Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
+
+## 🛠 Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel" />
+</p>
+
+## 🎨 Design / Creative
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" />
 </p>
 
 ---
-### ⭐ Soft Skills (USP)
 
-- 🧠 Decision Influence - 💼 Consultative Selling  - 🛠️ Objection Handling  - 🤝 Stakeholder Communication
----
+# 🚀 Featured Projects
 
-💼 **Business Operations & Growth Specialist | Product Influence | Data & Digital Strategy**
+## 📈 CoinPulse — Real-Time Crypto Dashboard
 
-I convert *confusion into clarity* and *decisions into adoption*.
+Real-time cryptocurrency monitoring platform.
 
-- 👨‍💻 Running a full-service photography business (operations → invoicing → delivery tracking)
-- 🔥 Influenced **₹22+ lakh** in high-value purchase decisions (laptops, smartphones, ACs, Honda Amaze)
-- 📊 Built dashboards, trackers & reporting systems improving closure + accountability
-- 🎯 Strong in consultative selling, decision influence, stakeholder management
-- 📈 Skilled in: MS Excel, Power BI, SQL, Python (analytics), CRM, Notion
+**Tech Stack**
 
-### 🌟 My Superpower:
-> **I don’t sell products — I sell clarity that leads to adoption.**
+Angular • TypeScript • RxJS • Binance WebSocket API
 
----
+**Features**
 
-### 🤝 Let's Connect
-
-<a href="https://linkedin.com/in/hemrajpanchal04" target="_blank">
-  <img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="40"/>
-</a>
-<a href="https://instagram.com/hem_raj1104" target="_blank">
-  <img src="https://www.svgrepo.com/show/303154/instagram-2016-logo.svg" width="40"/>
-</a>
-<a href="mailto:hemrajpanchal1104@gmail.com" target="_blank">
-  <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40"/>
-</a>
+- Real-time crypto price streaming
+- WebSocket integration
+- Dynamic dashboard UI
+- REST + WebSocket architecture
 
 ---
 
-## 📂 FEATURED PORTFOLIO (Proof of Work)
+## 🤖 Galaxy Chat AI Platform
 
-🔗 **Influence Portfolio (Real Bills + Case Studies)**  
-➡️ https://drive.google.com/file/d/1WzHJIvXNJ2BbTTcj-kbmO8wBLczqOMYM/view?usp=sharing
+AI chatbot platform with memory and LLM integration.
 
-This portfolio contains:
-- Real invoices & proofs of ₹22 lakh product decisions
-- Laptop, car & phone decision case studies (value-based selling)
-- Objection handling + FOMO + ROI storytelling in action
+**Tech**
 
----
-
-## 💼 Operational Excellence (Work Experience)
-
-**Operations & Business Manager – Family Business**  
-*Jan 2022 – Present*
-
-- End-to-end ownership: client onboarding → project execution → delivery → invoicing
-- Built payment + invoicing tracker → **100% payment closure**
-- Weekly WIP reporting → transparency + faster turnaround
-
-**Business Development Consultant (Freelance)**  
-*2020 – Present*
-
-- Guided purchasing decisions using data, reviews, ROI & future-cost logic
-- Closed premium laptop deal (₹1.05L Predator) + car upgrade decision (Honda Amaze)
+Next.js  
+MongoDB  
+Vercel AI SDK  
+OpenRouter
 
 ---
 
-## 📊 Data & Analytics Projects (GitHub Repositories)
-
-🔗 ** Data Analytic Project Link (Real Bills + Case Studies)** : https://drive.google.com/drive/folders/1t3KKdIiCUoxkYhTGH0FekqwCUQ-8eTwt?usp=sharing
+## 📊 Data Analytics Projects
 
 | Project | Tech Stack | Outcome |
-|---------|------------|---------|
-| **IMDB Movie Analysis** | Python, Pandas, Matplotlib | Identified patterns that influence ratings & revenue |
-| **Bank Loan Case Study** | SQL, Excel, Power BI | Built dashboard to analyze loan approval/credit risk |
-| **Car Features Impact Study** | Python, Pandas, ML | Analyzed impact of features on car pricing |
+|-------|------------|--------|
+| IMDB Movie Analysis | Python, Pandas, Matplotlib | Identified patterns influencing ratings & revenue |
+| Bank Loan Case Study | SQL, Excel, Power BI | Built dashboard to analyze loan approval risk |
+| Car Features Impact Study | Python, Pandas, ML | Analyzed impact of features on car pricing |
 
-➡️ Repositories will be linked when uploaded.
+---
 
+# 💼 Work Experience
 
-### ✨ Motto
+## Software Developer (SDE)
+2024 — Present
 
-> "**I track. I follow up. I close.**"
+- Built AI chatbot platform using **Next.js, AI SDK, MongoDB**
+- Developed REST APIs, authentication systems, and real-time features
+- Worked with cloud deployment and scalable backend architecture
 
-If you're looking for someone who merges **business strategy + data + execution**, let's talk.
+---
+
+## Business Development Executive
+2021 — Present
+
+- Closed **₹22+ lakh in high-value deals** through data-driven product decisions
+- Managed CRM workflows and client communication
+- Implemented tracking systems improving sales closure
+
+---
+
+## Cinematographer & Video Editor
+2020 — Present
+
+- Shot and edited reels, events, and commercial videos
+- Skilled in color grading and visual storytelling
+
+---
+
+# ⭐ Soft Skills
+
+- 🧠 Decision Influence
+- 💼 Consultative Selling
+- 🛠 Objection Handling
+- 🤝 Stakeholder Communication
+
+---
+
+# 🌟 My Superpower
+
+> I combine **engineering + business thinking** to build products people actually adopt.
+
+---
+
+# 📂 Portfolio
+
+🌐 Developer Portfolio  
+https://hemraj1104.github.io/Portfolio/
+
+---
+
+# 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/hemrajpanchal04">
+<img src="https://www.svgrepo.com/show/475661/linkedin-color.svg" width="40"/>
+</a>
+
+<a href="mailto:hemrajpanchal1104@gmail.com">
+<img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40"/>
+</a>
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemraj1104&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemraj1104&layout=compact&theme=dark)
+
+---
+
+# 🧠 Motto
+
+**I track. I build. I ship.**
